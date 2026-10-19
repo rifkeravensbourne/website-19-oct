@@ -1,0 +1,14 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+p {
+	position: fixed;
+	color: white;
+	padding: 20px;
+	font-size: 6vw;
+}
